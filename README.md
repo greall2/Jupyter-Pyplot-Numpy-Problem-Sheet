@@ -18,4 +18,12 @@ The figures in the data set for each class are based on:
 4. petal width in cm
 
 ## Jupyter Notebook
+Jupyter Notebook is used to carry out these Problems. 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
+
+### Refernece Links:
+* [Problem Sheet](https://emerging-technologies.github.io/problems/jupyter.html)
+* [Fishers iris Data set](https://archive.ics.uci.edu/ml/datasets/iris)
+* [Jupyter Notebook](http://jupyter.org/)
+* [Pyplot](https://matplotlib.org/users/pyplot_tutorial.html)
+* [Numpy](http://www.numpy.org/)
