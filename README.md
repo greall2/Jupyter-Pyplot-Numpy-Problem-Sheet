@@ -16,3 +16,6 @@ The figures in the data set for each class are based on:
 2. sepal width in cm
 3. petal length in cm
 4. petal width in cm
+
+## Jupyter Notebook
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
